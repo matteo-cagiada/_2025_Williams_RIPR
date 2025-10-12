@@ -1,4 +1,4 @@
-# MD Analysis Notebook – Supplementary Information: t-SNE Evaluation
+# Supplementary Information for MD simulations in: Williams B.G., et.al. (2025)
 
 **Author:** Matteo Cagiada  
 **Date:** October 2025  
@@ -81,10 +81,13 @@ Below is a mapping between the simulation names used in the notebook and the cor
 
 ## 📫 Contact and Support
 
-For questions, feedback, or issues reproducing results:
+For questions, feedback, or issues reproducing results in this notebook:
 
-📧 **Email:** [matteo.cagiada@io.ku.dk](mailto:matteo.cagiada@io.ku.dk) / [matteo.cagiada@stats.ku.dk](mailto:matteo.cagiada@stats.ku.dk)  
-🏛️ **Affiliation:** Department of Biology, University of Copenhagen  
+📧 [matteo.cagiada@io.ku.dk](mailto:matteo.cagiada@io.ku.dk) / [matteo.cagiada@stats.ku.dk](mailto:matteo.cagiada@stats.ku.dk)
+
+For questions or feedback on the manuscript:
+
+📧  [simon.draper@bioch.ox.ac.uk](mailto:simon.draper@bioch.ox.ac.uk) /
 
 ---
 
