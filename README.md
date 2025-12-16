@@ -95,7 +95,7 @@ For questions or feedback on the manuscript:
 
 If you use this notebook or associated data, please cite:
 
-> Williams *et al.*, *Synergistic relationships between non-neutralising antibodies targeting the essential Plasmodium falciparum RIPR protein drive inhibition of erythrocyte invasion*, [Journal Name], [Year], [DOI].
+> Williams *et al.*, *Structural basis for synergistic antibody protection against the essential malaria invasion complex protein RIPR*, VeriXiv, 2025
 
 
 ```markdown
