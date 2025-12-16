@@ -11,8 +11,8 @@
 
 This repository accompanies the paper:
 
-> **Synergistic relationships between non-neutralising antibodies targeting the essential *Plasmodium falciparum* RIPR protein drive inhibition of erythrocyte invasion**  
-> Barnabas G. Williams, Jordan R. Barret, Josephin Bartholdson-Scott, Cassandra A. Rigby, Matteo Cagiada, Doris Quinkert, Kirsty McHugh, Anna Huhn, Sean Burnap, Sai Sundar Rajan Raghavan, Ana Rodrigues, Laura Bergamaschi, Beatrice Balzarotti, Simon Watson, Noah Miller, Lloyd King, Francesca Donnellan, Camilla Gladstone, Camille Gourjault, Jemima Paterson, Stefania Scalabrino, Katherine Skinner, Charlotte M. Deane, Stephen Reece, Jacqueline Kircher, Andrew Ward, and Simon J. Draper
+> **Structural basis for synergistic antibody protection against the essential malaria invasion complex protein RIPR**  
+> Barnabas G. Williams; Jordan R. Barrett; Josefin Bartholdson Scott; Cassandra A. Rigby; Matteo Cagiada; Doris Quinkert; Kirsty McHuhh; Anna Huhn; Sean A. Burnap; Camille Gourjault; Francesca Byrne; Sai Sundar Rajan Raghavan; Ana Rodrigues; Laura Bergamaschi; Beatrice Balzarotti; Simon Watson; Noah Miller; Lloyd D.W. King; Francesca R. Donnellan; Camilla Gladstone; Jemima Paterson; Stefania Scalabrino; Sarah E. Silk; Jo Salkeld; Angela M. Minassian; Katherine Skinner; Weston B. Strewe; Charlotte M. Deane; Stephen T. Reece; Andrew B. Ward; Simon J. Draper 
 
 This repository includes jupyter notebook used to run the analyse and make figures  for the molecular dynamics (MD) simulations of RIPR referenced in the main manuscript.  
 All results can be reproduced following the instructions below.
